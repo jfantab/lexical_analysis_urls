@@ -2,4 +2,4 @@
 malicious_phish.csv
 malicious_phish_*.csv
 .venv/
-*_model_trained.pkl
+# *_model_trained.pkl
